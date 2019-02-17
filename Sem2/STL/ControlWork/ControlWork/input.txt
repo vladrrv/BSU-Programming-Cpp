@@ -1,0 +1,21 @@
+
+1 rectangle Tulip Thistle Feverfew
+2 trapezoid Lilac
+3 rectangle Cockscomb Barberton Peony Waxflower Tulip
+4 octagon Barberton Gentian Scabious
+5 octagon Barberton Larkspur
+6 rhombus Broom Larkspur
+7 trapezoid Primrose Daffodil Amaryllis
+8 rectangle Rose Peony Foxglove
+9 trapezoid Chincherinchee Sunflower Sunflower
+10 oval Broom Daisy Sunflower
+11 crescent Bellflower Lupin
+12 heptagon Stock Coneflower
+13 parallelogram Thistle
+14 semicircle Sunflower
+15 hexagon Gentian Goldenrod Coneflower Statice
+16 ellipse Thistle Primrose Larkspur Coneflower Rose
+17 cardioid Cornflower
+18 square Stock
+19 ellipse Daffodil Rose
+20 oval Daisy Scabious

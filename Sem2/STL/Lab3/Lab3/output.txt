@@ -1,0 +1,14 @@
+
+|           Rius | Albacore, Beluga, Bream, Cusk, Eel, Halibut, Herring, Salmon, Sole, 
+|           Prok | Bogue, Bream, 
+|        Kurtich | Bogue, Bream, Grouper, Sprat, 
+|         Diller | Anguillidae, Beluga, Bream, Catfish, Flounder, Grouper, Plaice, Pollock, Sprat, 
++------------------------->
+Common Fish:
+Bream, 
++------------------------->
+Catched Fish:
+Albacore, Anguillidae, Beluga, Bogue, Bream, Catfish, Cusk, Eel, Flounder, Grouper, Halibut, Herring, Plaice, Pollock, Salmon, Sole, Sprat, 
++------------------------->
+Non-Catched Fish:
+Anchovy, Brill, Capelin, Carp, Cobia, Cod, Flatfish, Haddock, Mackerel, Pike, Sardine, Shark, Smelt, 

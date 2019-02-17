@@ -1,0 +1,36 @@
+
+Albacore
+Anchovy
+Anguillidae
+Beluga
+Bogue
+Bream
+Brill
+Capelin
+Carp
+Catfish
+Cobia
+Cod
+Cusk
+Eel
+Flatfish
+Flounder
+Grouper
+Haddock
+Halibut
+Herring
+Mackerel
+Pike
+Plaice
+Pollock
+Salmon
+Sardine
+Shark
+Smelt
+Sole
+Sprat
+---
+Rius Bream Eel Halibut Cusk Beluga Sole Albacore Salmon Herring
+Prok Bream Bogue
+Kurtich Bogue Sprat Grouper Bream Bream
+Diller Anguillidae Catfish Pollock Flounder Catfish Bream Bream Sprat Plaice Beluga Grouper Plaice

@@ -1,0 +1,14 @@
+bream carp chub eel ide perch pike roach salmon tench trout 
+Fisher: Fishman	Catch: carp salmon carp perch trout 
+Fisher: Johnson	Catch: trout tench carp 
+Fisher: Taylor	Catch: pike carp 
+Fisher: Wilson	Catch: bream pike carp 
+Fisher: Carter	Catch: carp ide ide 
+Fisher: Nelson	Catch: eel salmon carp 
+
+Catched fish:
+bream carp eel ide perch pike salmon tench trout 
+Not catched fish:
+chub roach 
+Cathed by all fishers:
+carp 

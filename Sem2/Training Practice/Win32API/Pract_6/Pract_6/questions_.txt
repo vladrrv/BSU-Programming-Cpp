@@ -1,0 +1,48 @@
+A car got 33 miles per gallon using gasoline that cost $2.95 per gallon. Approximately what was the cost, in dollars, of the gasoline used in driving the car 350 miles?
+3
+$10
+$30
+$50
+1
+1
+
+Which two of the following numbers have a product that is between –1 and 0?
+4
+–20
+–10
+2^(–4)
+3^(–2)
+2
+1
+2
+
+A certain jar contains 60 jelly beans — 22 white, 18 green, 11 yellow, 5 red and 4 purple. If a jelly bean is to be chosen at random, what is the probability that the jelly bean will be neither red nor purple?
+4
+0.09
+0.15
+0.85
+0.91
+1
+2
+
+Which of the following integers are multiples of both 2 and 3?
+5
+8
+9
+12
+18
+21
+2
+2
+3
+
+Each employee of a certain company is in either Department X or Department Y, and there are more than twice as many employees in Department X as in Department Y. The average (arithmetic mean) salary is $25,000 for the employees in Department X and $35,000 for the employees in Department Y. Which of the following amounts could be the average salary for all of the employees of the company?
+5
+$26,000
+$28,000
+$29,000
+$30,000
+$34,000
+2
+0
+1

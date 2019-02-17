@@ -1,0 +1,6 @@
+100 Novitsky 25 Maz
+100 Likchach 22 Man
+123 Prokopenko 23 Kamaz
+56 Prokopenko 26 Man
+56 Fedorovich 26 Maz
+100 Yakovlev 24 Man

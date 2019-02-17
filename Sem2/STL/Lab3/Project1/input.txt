@@ -1,0 +1,20 @@
+carp
+salmon
+trout
+chub
+bream
+tench
+perch
+ide
+pike
+eel
+roach
+
+///
+
+Fishman carp salmon carp perch trout
+Johnson trout tench carp
+Taylor pike carp
+Wilson bream pike carp
+Carter carp ide ide
+Nelson eel salmon carp

@@ -1,0 +1,20 @@
+
+Data in vector: 
+
+|  1 |rombus       | lilia, rose, daisy, lilia, 
+|  2 |circle       | lilia, 
+|  3 |rectangle    | tulip, lilia, 
+|  4 |circle       | thistle, lilia, 
+|  5 |trapezoid    | lilia, 
+Sorted by shape: 
+Number: 2	Shape: circle	Flowers: lilia 
+Number: 4	Shape: circle	Flowers: thistle lilia 
+Number: 3	Shape: rectangle	Flowers: tulip lilia 
+Number: 1	Shape: rombus	Flowers: lilia rose daisy lilia 
+Number: 5	Shape: trapezoid	Flowers: lilia 
+
+Shapes of flowerbeds: (task 4.1)
+circle rectangle rombus trapezoid 
+
+Size of all shapes (task 6.1): 
+4

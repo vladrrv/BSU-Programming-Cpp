@@ -1,0 +1,5 @@
+1 rombus lilia rose daisy lilia
+2 circle lilia
+3 rectangle tulip lilia
+4 circle thistle lilia
+5 trapezoid lilia

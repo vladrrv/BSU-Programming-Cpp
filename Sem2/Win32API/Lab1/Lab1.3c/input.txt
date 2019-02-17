@@ -1,0 +1,25 @@
+0 0 GA 521
+1 1 MA 256
+
+3 1 Stud.Practics 507
+
+4 0 MA 605
+5 1 English 338
+6 1 DM&ML 300b
+7 1 Programming 507
+
+8 0 Programming 521
+9 1 Programming 300b
+10 1 Programming 314
+11 2 P.E. Gym
+
+12 1 GA 249
+13 0 GA 521
+14 1 DM&ML 521
+
+16 0 MA 605
+17 1 MA 255
+18 1 English 346
+19 2 P.E. Gym
+
+20 0 Programming 521
